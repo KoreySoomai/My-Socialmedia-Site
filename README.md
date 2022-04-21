@@ -1,1 +1,1 @@
-This ismy first social media website project.
+This is my first social media website project.
